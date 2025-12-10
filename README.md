@@ -1,15 +1,11 @@
 ## Molecular insights into early malignant transition of hepatocellular carcinoma
 
 ### Repository structure
-**genome** - analysis scripts for the whole genome sequencing data
-
-**transcriptome** - analysis scripts for the RNA sequencing data
-
-**HD** - analysis scripts for the spatial transcriptome (10X HD) data
-
-**stat and plot** - compare samples from difference groups, plot graphs.
-
-**external dataset** - compare with external datasets.
+**genome** - analysis scripts for the whole genome sequencing data  
+**transcriptome** - analysis scripts for the RNA sequencing data  
+**HD** - analysis scripts for the spatial transcriptome (10X HD) data  
+**stat and plot** - compare samples from difference groups, plot graphs.  
+**external dataset** - compare with external datasets.  
 
 ### Citation
 Please cite our paper if you find this work is helpful to your research.
